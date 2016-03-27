@@ -213,7 +213,7 @@ while True:
             currQtr = quarters.get(i)
             fid.write(currQtr.printQuarter())
             fid.write("\n\n")
-        print("\t>\t"+ str(quarters.size()) + " quarters written to file.")
+        print("\t>\t"+ str(quarters.size()) + " quarter(s) written to file.")
         originalGPA = getGenGPA(quarters)
         print("\t>\tOriginal GPA set to " + str(originalGPA) + ".")
         fid.close()

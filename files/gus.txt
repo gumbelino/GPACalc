@@ -1,0 +1,7 @@
+Your General GPA is 4.0
+SPRING 2015
+	CSE 101(4.0): A
+	CSE 105(4.0): A
+Total units: 8.0
+Term GPA: 4.0
+
